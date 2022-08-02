@@ -53,6 +53,12 @@ p {
   margin-right: 7rem;
 }
 
+.summary p {
+  font-weight: 300;
+  color: var(--darkGrayMagenta);
+  line-height: 1.5;
+}
+
 .ratings {
  width: 50%;
 }
@@ -84,6 +90,10 @@ p {
 .end {
   margin-left: 2rem;
   
+}
+
+.top {
+  margin-bottom: 3rem;
 }
 
 .bottom {
